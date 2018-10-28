@@ -1,5 +1,5 @@
 
-# Created by https://www.gitignore.io/api/python
+# Created by https://www.gitignore.io/api/python,visualstudiocode
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
@@ -132,5 +132,12 @@ dmypy.json
 pyvenv.cfg
 pip-selfcheck.json
 
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
 
-# End of https://www.gitignore.io/api/python
+
+# End of https://www.gitignore.io/api/python,visualstudiocode
